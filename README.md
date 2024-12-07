@@ -11,7 +11,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is a personal website with a goal to introduce myself as a person. The website showcases various aspects of a personal profile while adhering to modern web development standards. It consists of four main subpages, each with a distinct purpose and functionality:
+This project is a personal website with a goal to introduce myself as a person. Website showcases various aspects of a personal profile and consists of four main subpages, each with a distinct purpose and functionality:
 
 ### About Me
 A detailed introduction that includes personal information, hobbies, or academic interests.
